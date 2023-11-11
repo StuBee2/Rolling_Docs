@@ -1,0 +1,8 @@
+{
+  "label": "@stubee2/stubee2-rolling-design-token",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "롤링을 스타일링할때 필요한 핵심적인 디자인 요소를 제공합니다."
+  }
+}

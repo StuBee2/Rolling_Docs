@@ -1,0 +1,8 @@
+{
+  "label": "@stubee2/stubee2-rolling-toastify",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "롤링에서 사용하는 toast를 제공합니다."
+  }
+}
