@@ -79,7 +79,7 @@ const config = {
             label: "Design-Docs",
           },
           {
-            href: "https://github.com/StuBee2",
+            href: "https://github.com/StuBee2/Rolling_Docs",
             label: "GitHub",
             position: "right",
           },
